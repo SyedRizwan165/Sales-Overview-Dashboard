@@ -23,6 +23,6 @@ Following Analytic measures were created using DAX
 # Dashboard
 The final dashboard consist of three files, sales, customer and product. The filters and slicers are placed by keeping the business request in mind. Multi dynamic KPI card have been used for the better visualization of Sales vs Budget comparison.
 
-![ Alt Text](E:\Sales Overview\1.png)
-![ Alt Text](E:\Sales Overview\2.png)
-![ Alt Text](E:\Sales Overview\3.png)# Sales-Overview-Dashboard
+![image](https://github.com/SyedRizwan165/Sales-Overview-Dashboard/blob/main/1.png)
+![image](https://github.com/SyedRizwan165/Sales-Overview-Dashboard/blob/main/2.png)
+![image](https://github.com/SyedRizwan165/Sales-Overview-Dashboard/blob/main/3.png)
